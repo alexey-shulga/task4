@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "AlexeyShulga96Gmail.com",
+    "mongoURI": "mongodb+srv://shulgaalexey96:AfRcSqWe556677@cluster0.e8woo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
